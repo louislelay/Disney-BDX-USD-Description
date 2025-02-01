@@ -14,4 +14,8 @@ These modified files can be found in the `urdf` directory.
 
 ## Visuals:
 - **USD Model Preview**: ![Image](bdx.png)
-- **Locomotion Video**: [Watch Video](video_placeholder)
+- **Locomotion Video**: 
+<video width="100%" controls>
+  <source src="rl-video-step-22000.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
