@@ -15,3 +15,7 @@ These modified files can be found in the `urdf` directory.
 ## Visuals:
 - **USD Model Preview**: ![Image](bdx.png)
 - **Locomotion Video**: [Watch Video](rl-video-step-22000.mp4)
+
+
+https://github.com/user-attachments/assets/acc956d2-012c-4c49-b8e7-207606850ca0
+
