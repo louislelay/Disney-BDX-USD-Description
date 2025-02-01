@@ -19,7 +19,4 @@ These modified files can be found in the `urdf` directory.
 
 - **Locomotion Video**: 
 
-https://github.com/user-attachments/assets/9bffa87c-9fd4-4e1c-bbf0-9a075ebbbc41
-
-
-
+https://github.com/user-attachments/assets/d1409c04-c705-40c9-aabc-f8c8b31a4f71
