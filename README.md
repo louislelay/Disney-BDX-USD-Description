@@ -13,5 +13,5 @@ This repository contains the USD Description file for the BD-X robot from Disney
 These modified files can be found in the `urdf` directory.
 
 ## Visuals:
-- **USD Model Preview**: ![Image](image_placeholder)
+- **USD Model Preview**: ![Image](bdx.png)
 - **Locomotion Video**: [Watch Video](video_placeholder)
